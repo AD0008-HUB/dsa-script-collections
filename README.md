@@ -5,7 +5,7 @@ This Repo is the collection of DSA and CP scripts for reference.
 ### Python
 * 
 ### Cpp
-* 
+* Quick Sort
 
 ### Java
 * 
