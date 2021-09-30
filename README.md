@@ -8,7 +8,7 @@ This Repo is the collection of DSA and CP scripts for reference.
 * 
 
 ### Java
-* 
+* Segmented Sieve Algorithm 
 
 
 ## Contributing
