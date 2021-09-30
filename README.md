@@ -3,12 +3,17 @@ This Repo is the collection of DSA and CP scripts for reference.
 
 ## Contents
 ### Python
-* 
+* EMPTY
 ### Cpp
 * Quick Sort
 
 ### Java
 * Segmented Sieve Algorithm 
+* Disjoint Set
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+* Selection Sort
 
 
 ## Contributing
