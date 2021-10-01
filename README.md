@@ -4,6 +4,11 @@ This Repo is the collection of DSA and CP scripts for reference.
 ## Contents
 ### Python
 * EMPTY
+
+### C
+
+- Queue Operations
+
 ### Cpp
 * Quick Sort
 
