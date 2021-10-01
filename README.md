@@ -14,6 +14,7 @@ This Repo is the collection of DSA and CP scripts for reference.
 * Insertion Sort
 * Merge Sort
 * Selection Sort
+* Stobogrammatic Number
 
 
 ## Contributing
