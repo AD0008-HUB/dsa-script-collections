@@ -11,6 +11,11 @@ This Repo is the collection of DSA and CP scripts for reference.
 
 ### Cpp
 * Quick Sort
+* Selection Sort
+* Binary Search
+* Kadane's Algorithm
+* Kaprekar Number
+
 
 ### Java
 * Segmented Sieve Algorithm 
