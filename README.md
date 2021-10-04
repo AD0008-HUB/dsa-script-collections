@@ -15,6 +15,7 @@ This Repo is the collection of DSA and CP scripts for reference.
 * Binary Search
 * Kadane's Algorithm
 * Kaprekar Number
+* DFS Algorithm
 
 
 ### Java
