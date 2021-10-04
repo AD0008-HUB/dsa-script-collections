@@ -3,7 +3,11 @@ This Repo is the collection of DSA and CP scripts for reference.
 
 ## Contents
 ### Python
-* EMPTY
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Selection Sort
 
 ### C
 
